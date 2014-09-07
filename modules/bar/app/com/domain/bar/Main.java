@@ -10,7 +10,7 @@ public class Main {
 
 //      That's wrong
 //      String root = com.domain.root.Main.someString();
-//      String zee = com.domain.bar.Main.someString();
+//      String zee = com.domain.zee.Main.someString();
 
         return "String from `bar`";
     }
